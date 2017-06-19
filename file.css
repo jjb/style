@@ -1,6 +1,10 @@
 article {
   width: 500px;
 }
+p{
+  font-family: Palatino,"Palatino Linotype","Palatino LT STD","Book Antiqua",serif;
+  line-height: 1.6em;
+}
 
 img {
    width: 100%;
@@ -10,6 +14,9 @@ iframe {
    width: 100%;
 }
 
+h1, h2, h3{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 h1{
   font-size: 2em;
 }
