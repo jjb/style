@@ -9,3 +9,16 @@ img {
 iframe {
    width: 100%;
 }
+
+h1{
+  font-size: 2em;
+}
+/* seems to be aproximately the chrome default.
+not sure about other browsers, we'll make it the official style
+regardless */
+h2{
+  font-size: 1.5em;
+}
+h3{
+  font-size: 1.25em;
+}
