@@ -29,3 +29,9 @@ h2{
 h3{
   font-size: 1.25em;
 }
+
+code, pre{
+  font-family: Consolas,menlo,monospace;
+  color: grey;
+  font-size: 0.8em;
+}
